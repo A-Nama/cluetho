@@ -1,6 +1,6 @@
 # CLUETHO
 
-Welcome to **Cluetho**, a Tkinter-powered digital spin on the classic board game *Cluedo* — made with love, logic, and just a pinch of dramatic flair.
+Welcome to **Cluetho**, a Tkinter-powered digital spin on the classic board game *Cluedo*, made with love..
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to **Cluetho**, a Tkinter-powered digital spin on the classic board game
 
 Built as my final project for **[Stanford University's Code in Place 2025](https://codeinplace.stanford.edu/)**, *Cluetho* is a fun, beginner-friendly Python game that helps players guess the right combination of **suspect**, **weapon**, and **room**.
 
-It was coded from scratch using **Python** and **Tkinter**, with no AI tools or external shortcuts — just pure algorithmic thinking and GUI magic!
+It was coded from scratch using **Python** and **Tkinter**
 
 ---
 
@@ -52,4 +52,5 @@ To the Code in Place community, my amazing section lead + peers, and everyone wh
 
 ## 🎮 Play the Game
 Wanna try it? Clone the repo and run it on your machine.
+
 ⚠️ **Warning**: If you win, you must be a sore winner. It's tradition. 
